@@ -3,7 +3,6 @@
 .gradle/
 build/
 out/
-classes/
 
 # eclipse
 
@@ -11,7 +10,6 @@ classes/
 
 # idea
 
-.idea/
 *.iml
 *.ipr
 *.iws
@@ -26,7 +24,8 @@ bin/
 
 # macos
 
-*.DS_Store
+.DS_Store
+Thumbs.db
 
 # fabric
 
@@ -38,3 +37,8 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+*.log
+*.tmp
+*.bak
+*.swp
