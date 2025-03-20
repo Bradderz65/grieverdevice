@@ -1,0 +1,8 @@
+{
+  "beep": {
+    "subtitle": "subtitles.grieverdevice.beep",
+    "sounds": [
+      "grieverdevice:beep"
+    ]
+  }
+} 
