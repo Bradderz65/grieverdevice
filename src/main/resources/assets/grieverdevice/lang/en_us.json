@@ -1,0 +1,16 @@
+{
+  "item.grieverdevice.griever_device": "Griever Device",
+  "itemgroup.grieverdevice": "Griever Devices",
+  "item.grieverdevice.griever_device.tooltip.target": "Target: X=%d, Y=%d, Z=%d",
+  "item.grieverdevice.griever_device.tooltip.no_target": "No target set. Shift-right-click on a block to set target.",
+  "item.grieverdevice.griever_device.target_set": "Target set to X=%d, Y=%d, Z=%d",
+  "item.grieverdevice.griever_device.no_target": "No target set. Shift-right-click on a block to set target.",
+  "subtitles.grieverdevice.beep": "Griever Device beeps",
+  
+  "text.autoconfig.grieverdevice.title": "Griever Device Config",
+  "text.autoconfig.grieverdevice.option.dropSettings": "Drop Settings",
+  "text.autoconfig.grieverdevice.option.dropSettings.dropChancePercentage": "Drop Chance Percentage",
+  "text.autoconfig.grieverdevice.option.dropSettings.dropChancePercentage.@Tooltip": "Chance (1-100%) for spiders to drop the Griever Device",
+  "text.autoconfig.grieverdevice.option.dropSettings.maxDevicesInWorld": "Max Devices In World",
+  "text.autoconfig.grieverdevice.option.dropSettings.maxDevicesInWorld.@Tooltip": "Maximum number of Griever Devices that can exist in the world"
+} 
