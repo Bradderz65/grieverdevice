@@ -7,8 +7,11 @@
 - Added light indicator that turns green when within close range (10 blocks) of the target
 - Improved beeping mechanism with variable frequency based on distance
 - Added distance detection up to 100 blocks
+- Added textures for light color indicators
+- Synchronized beeping frequency with light indicators
 
 ### Improvements
+- Removed log spam from light blinking with distance to target
 - Optimized performance using FastUtil collections
 - Added more detailed feedback when using the device
 - Enhanced configuration options
